@@ -1,3 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+*[class^="sumome-react"] {
+    overflow: hidden;
+}
